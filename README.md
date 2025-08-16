@@ -1,5 +1,8 @@
 # 🍽️ Recipe Finder
 
+
+**Live Demo:** [Check it out live!](https://sagar-46.github.io/Recipe-Finder/)
+
 A simple and responsive **Recipe Finder App** built with **HTML, CSS, and JavaScript** that uses the [TheMealDB API](https://www.themealdb.com/) to fetch and display delicious recipes.
 
 ---
